@@ -21,7 +21,7 @@ My _strengths_ include:
 ## 🛠 Skills
 * knowledge of HTML + working with the Pug template engine
 * knowledge of CSS + preprocessors SASS, SCSS
-* usind BEM metodology
+* using BEM methodology
 * using Grid and Flexbox
 * working with Tailwind CSS
 * learning JavaScript, ECMAScript, TypeScript
