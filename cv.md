@@ -18,3 +18,22 @@ My _strengths_ include:
 * perseverance and focus on completing assigned tasks;
 * I don’t put off until tomorrow what I can do today.
 
+## 🛠 Skills
+* knowledge of HTML + working with the Pug template engine
+* knowledge of CSS + preprocessors SASS, SCSS
+* usind BEM metodology
+* using Grid and Flexbox
+* working with Tailwind CSS
+* learning JavaScript, ECMAScript, TypeScript
+* working with React JS (+ styled-components), Redux
+* working with the gaming library-framework Phaser JS
+* working with Git, GitHub
+* using Webpack, Gulp, Vite builders
+* layout of cross-browser and adaptive layouts
+* working with Firebase (registration, authorization, storing data in storage, using Realtime Database, Cloud Firebase)
+* working with Email JS
+* creating SPA applications both in Vanilla JS and React JS
+* working with asynchronous requests (fetch/axios) to the server, using various APIs
+* using browser developer tools
+* deployment of projects on Netlify and Vercel
+
